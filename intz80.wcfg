@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/public/Documents/projects/electronique/Xilinx/test-intz80/tb_intz80_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="tb_intz80" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/tb_intz80/int" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">int[15:0]</obj_property>
+      <obj_property name="ObjectShortName">int[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/iei" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iei</obj_property>
+      <obj_property name="ObjectShortName">iei</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/m1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">m1</obj_property>
+      <obj_property name="ObjectShortName">m1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/inta" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">inta</obj_property>
+      <obj_property name="ObjectShortName">inta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/inte" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inte[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inte[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/int_o" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">int_o</obj_property>
+      <obj_property name="ObjectShortName">int_o</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/ieo" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ieo</obj_property>
+      <obj_property name="ObjectShortName">ieo</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/vect" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vect[7:0]</obj_property>
+      <obj_property name="ObjectShortName">vect[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/irq" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">irq[15:0]</obj_property>
+      <obj_property name="ObjectShortName">irq[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/ar_irq" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ar_irq[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ar_irq[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/priority" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">priority[15:0]</obj_property>
+      <obj_property name="ObjectShortName">priority[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/int_valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">int_valid</obj_property>
+      <obj_property name="ObjectShortName">int_valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/ivalid1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ivalid1</obj_property>
+      <obj_property name="ObjectShortName">ivalid1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/ivalid2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ivalid2</obj_property>
+      <obj_property name="ObjectShortName">ivalid2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/my_inta" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">my_inta</obj_property>
+      <obj_property name="ObjectShortName">my_inta</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_intz80/uut/vreg" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">vreg[4:0]</obj_property>
+      <obj_property name="ObjectShortName">vreg[4:0]</obj_property>
+   </wvobject>
+</wave_config>
